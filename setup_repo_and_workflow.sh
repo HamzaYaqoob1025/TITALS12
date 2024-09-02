@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-REPO_URL="https://github.com/HamzaYaqoob1025/tiles12.git"
+REPO_URL="https://github.com/HamzaYaqoob1025/TITALS12.git"
 BRANCH_NAME="master"
 
 # Step 1: Initialize Git and Add Files
